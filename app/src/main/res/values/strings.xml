@@ -1,3 +1,17 @@
 <resources>
+
+    <string name="Ben_Tornato">Welcome Back!</string>
+    <string name="sing">Login to continue</string>
     <string name="app_name">My Application</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="crateAcount">Create Account</string>
+    <string name="addPhoto">add image</string>
+    <string name="name">Name</string>
+    <string name="conferm_password">Conferm Password</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="sing_in">Sing In</string>
+
 </resources>
